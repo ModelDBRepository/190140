@@ -1,3 +1,9 @@
+20170201 In this version of LFPsim, the ion channel distribution
+density and size of the individual compartments were considered in the
+LFP calculation. This modification was supplied by S Diwakar in
+response to user comments. It does not change the paper or the LFP
+reconstructions.
+
 This is the README for the model associated with the paper:
 
 Parasuram H, Nair B, D'Angelo E, Hines M, Naldi G, Diwakar
